@@ -69,7 +69,8 @@ body{
 
 .card .circle .logo{
     position: relative;
-    width: 250px;
+    padding-left: 10px;
+    width: 20rem;
     transition: 0.5s;
     transition-delay: 0.5s;
 }
@@ -89,10 +90,10 @@ body{
 }
 .card:hover .product_img{
     transition-delay: .5s;
-    top: 35%;
+    top: 33%;
     left: 25%;
-    height: 500px;
-    transform: translate(-50%, -50%) scale(1) rotate(-2deg);
+    height: 550PX;
+    transform: translate(-50%, -50%) scale(1) rotate(-1deg);
 }
 .card .content{
     position: absolute;
