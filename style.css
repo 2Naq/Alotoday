@@ -16,7 +16,6 @@ body{
     min-height: 100vh;
     background: #151515;
 }
-
 .card{
     position: relative;
     width: 350px;
@@ -28,12 +27,10 @@ body{
     transition: 0.5s;
     transition-delay:  0.5s;
 }
-
 .card:hover{
     width: 600px;
     transition-delay: 0.5s;
 }
-
 .card .circle{
     position: absolute;
     top: 0;
